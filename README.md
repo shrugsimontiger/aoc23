@@ -22,6 +22,10 @@
 | 18  | Fully solved | Not solved          |
 | 19  | Fully solved | Not solved          |
 | 20  | Fully solved | No idea             |
+| 21  | Fully solved | Not solved          |
+| 22  | Fully solved | Fully solved        |
+| 23  | Fully solved | No idea             |
+| 24  | Fully solved | Not solved          |
 
 Key:
 - Fully solved: I solved the puzzle and used an intended solution from the beginning
